@@ -21,7 +21,7 @@ Learning Management System for **xxxxxxx** and **xxxxx**, xxxxxxxxxxxxxxxxxxxxxx
 
 ```
 Superadmin
-  └── Main Admin (per location: Surigao City / San Ricardo)
+  └── Main Admin (per location: xxxxxxxxxxxxxx)
         └── School Admin (per school)
               ├── Teacher
               └── Student
@@ -126,4 +126,4 @@ See [`deployment/serverSetup.md`](deployment/serverSetup.md) for full production
 
 ---
 
-*Built for Surigao del Norte — Region XIII (Caraga), Philippines.*
+*Built for xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx, Philippines.*
