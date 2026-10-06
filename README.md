@@ -1,6 +1,6 @@
-# 🎓 LMS System — Surigao del Norte
+# 🎓 LMS System — xxxxxxxxxxxxxxxx
 
-Learning Management System for **Surigao City** and **San Ricardo**, Surigao del Norte (Region XIII – Caraga).
+Learning Management System for **xxxxxxx** and **xxxxx**, xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
 
 ---
 
