@@ -1,5 +1,5 @@
 # LMS System — Server Setup Guide
-## Main Server: Surigao del Norte (Region XIII – Caraga)
+## Main Server: xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ---
 
