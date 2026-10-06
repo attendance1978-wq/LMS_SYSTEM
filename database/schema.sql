@@ -1,5 +1,5 @@
 -- LMS Database Schema
--- Surigao City & San Ricardo, Surigao del Norte
+-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 -- Created: 2024
 
 CREATE DATABASE IF NOT EXISTS lms_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
