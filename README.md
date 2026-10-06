@@ -92,7 +92,7 @@ All protected routes require `Authorization: Bearer <token>` header.
 ## Features
 
 - ✅ **Multi-role auth** — 5 roles with JWT
-- ✅ **Location management** — Surigao City & San Ricardo
+- ✅ **Location management** — xxxxxxxxxxxxxxxxxxxxxxx
 - ✅ **School management** — Multiple schools per location
 - ✅ **Student management** — Full CRUD with ID numbers
 - ✅ **Teacher management** — Course assignment
